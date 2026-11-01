@@ -5,3 +5,5 @@ plotly
 google-genai           # existing Google GenAI SDK (unchanged)
 paho-mqtt<2.0          # as used by the original mqtt.Client(...) call - unchanged
 reportlab
+paho-mqtt
+reportlab
