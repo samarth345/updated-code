@@ -1,9 +1,7 @@
-streamlit>=1.37        # st.fragment(run_every=...) is required (already used by the original app)
+streamlit>=1.37
 pandas
 numpy
 plotly
-google-genai           # existing Google GenAI SDK (unchanged)
-paho-mqtt<2.0          # as used by the original mqtt.Client(...) call - unchanged
-reportlab
-paho-mqtt
+google-genai
+paho-mqtt<2.0
 reportlab
