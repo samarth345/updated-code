@@ -1,0 +1,7 @@
+streamlit>=1.37
+pandas
+numpy
+plotly==6.3.1
+google-genai
+paho-mqtt<2.0
+reportlab
